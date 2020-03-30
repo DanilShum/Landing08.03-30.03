@@ -1,0 +1,13 @@
+/*	@keyframes stretching {
+  		0% { width:0%; opacity: 0;visibility: hidden;}
+		50% {opacity: 0.1;}
+  		100% {width: 75%; opacity: 1;visibility: visible;}
+	}
+	@keyframes stretching-down {
+  		0% { width: 75%; }
+   		100% { 	width: 0%; 	}
+   	}*/
+	@keyframes MyOpacity {
+  		0% { opacity: 0.1 }
+  		100% { 	opacity: 0}
+   }
